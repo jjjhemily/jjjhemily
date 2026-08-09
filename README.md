@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Jhemily Ferreira
+#  Jhemily Ferreira
 
 ### *Agrotech | AI | FullStack Developer*
 
