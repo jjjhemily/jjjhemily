@@ -1,7 +1,5 @@
 <div align="center">
 
-#  Jhemily Ferreira
-
 ### *Agrotech | AI | FullStack Developer*
 
 « Transformando ideias em projetos reais através da tecnologia »
